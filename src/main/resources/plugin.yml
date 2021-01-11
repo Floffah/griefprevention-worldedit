@@ -4,3 +4,4 @@ main: dev.floffah.griefpreventionworldedit.Main
 api-version: 1.13
 authors: [Floffah, _ForgeUser21498071]
 description: Stops worldedit from being used outside of claims.
+depend: [WorldEdit, GriefPrevention]
